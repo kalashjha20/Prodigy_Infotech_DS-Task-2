@@ -1,5 +1,5 @@
 # Prodigy_Infotech_DS-Task-2
-### Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
+### Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
 ## Tools And Libraries Used:
 ### -> jupyter notebook
 ### -> numpy
